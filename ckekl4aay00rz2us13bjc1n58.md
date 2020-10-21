@@ -2,7 +2,7 @@
 
 > It has been one exciting project in which I have learned to put together several AWS Services and skills that I picked up along my AWS SAA certification journey. 
 
-Around the beginning of this month, a good friend introduced me to Forrest’s cloud resume challenge. It challenges participants to build a serverless resume website using AWS cloud infrastructure; building and configuring services using cloud IaC automation in a CICD Pipeline. 
+Around the beginning of this month, a good friend introduced me to  [Forrest’s cloud resume challenge](https://cloudresumechallenge.dev/halloffame/) . It challenges participants to build a serverless resume website using AWS cloud infrastructure; building and configuring services using cloud IaC automation in a CICD Pipeline. 
 
 
 Found it at a time that I had newly passed the AWS Solutions Architect – Associate exam, and it presented a great opportunity to test myself with a practical problem, have fun practicing with it, and showcase my skills.  
