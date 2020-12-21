@@ -18,5 +18,5 @@ def hello():
     print ("hello world")
 ``` 
 
-For me personally, programming is one of the most fascinating things I've ever learned. I learned programming from an old book I had found in my high school library, and ever since then, I have gone on and to write at least a hundred hello world applications in different programming languages and platforms. Needless to say I have also written much complex applications. Connect with me on [Github](https://github.com/nquayson). 
+For me personally, programming has been one of the most fascinating things I've ever learned. I learned programming from an old book I had found in my high school library, and ever since then, I have gone on and to write at least a dozen hello world applications in different programming languages and platforms. Needless to say it creates a good starting point for writing much more complex applications. Connect with me on [Github](https://github.com/nquayson). 
 This also happens to be my very first attempt at blogging. So yes! It's a new hello blog. Cheers to learning!
