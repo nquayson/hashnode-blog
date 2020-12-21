@@ -1,4 +1,4 @@
-## Hello world!
+## Wondering how 'hello world' started?
 
 When people start learning anything new in programming, the first code they write is usually called... well 'hello world'. If you're like me, you've always wondered the origin of this phrase in programming. 
 
