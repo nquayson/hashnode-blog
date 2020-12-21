@@ -11,7 +11,12 @@ main( ) {
 }
 ``` 
 
+Today's hello world applications look a little bit different. There's no comma after the hello, and there is usually no need for a new line at the end of world. 
+
+```
+def hello():
+    print ("hello world")
+``` 
+
 For me personally, programming is one of the most fascinating things I've ever learned. I learned programming from an old book I had found in my high school library, and ever since then, I have gone on and to write at least a hundred hello world applications in different programming languages and platforms. Needless to say I have also written much complex applications. Connect with me on [Github](https://github.com/nquayson). 
 This also happens to be my very first attempt at blogging. So yes! It's a new hello blog. Cheers to learning!
-
-![hello-world-meme-40815.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1599000728491/9FI8jXQMp.jpeg)
